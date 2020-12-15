@@ -56,6 +56,6 @@
         </div>
     </section>
 </div>
-<script src="app.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
